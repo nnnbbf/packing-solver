@@ -13,9 +13,13 @@
 2. 快速使用
 	make 
 
-实例:
+3.实例:
     example系列为输入 ans系列为解答
 
+4.结构
+    geometry.hpp为几何图像的基础实现
+    layout.hpp 为具体算法实现
+    solver.hpp为具体json输入解析
 3. 变更说明
 	详见 `优化说明与变更记录.md` 和 `贴墙角度调试说明.md`。
 
